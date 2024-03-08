@@ -103,17 +103,17 @@ static const char *colorname[] = {
     "#000099", /* Medblue */
     "#8888cc", /* Purpleblue */ 
     "#9eeeee", /* Palegreygreen */
-    "gray90",
+    "#ffffaa", /* Paleyellow */
 
     /* 8 bright colors */
-    "gray50",
-    "#ff0000", /* Red */
+    "#777777",
+    "#f2acaa", 
     "#88cc88", /* Medgreen */
     "#eeee9e", /* Darkyellow */
     "#4993dd", /* Palegreyblue */
-    "#ff00ff", /* Magenta */
+    "#d7afff", 
     "#aaffff", /* Palebluegreen */
-    "#ffffff", /* White */
+    "#ffffea", 
 
     [255] = 0,
 
